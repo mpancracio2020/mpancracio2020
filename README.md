@@ -17,6 +17,10 @@ ______________________________________________________________________________
 - ✨ Gaming Addict
 - ✨ Watching Anime and Reading Manga
 
+### - Projects : 
+- :space_invader: Robotech Association
+- :space_invader: Nocom-Pila member
+
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mpancracio2020&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
