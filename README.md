@@ -17,9 +17,9 @@ Here are some ideas to get you started:
   
 <p align="center">
   <img src="https://data.whicdn.com/images/339189855/original.gif" alt="UwU" />
- 
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpancracio2020&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mpancracio2020&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
