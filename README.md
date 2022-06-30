@@ -1,22 +1,14 @@
 ###                   Hi, I'm Marvin.
 ______________________________________________________________________________
-####          a student in software robotics engineering, at King Juan Carlos University 	:robot:
+# About ME 💬 :
 
-<!--
-**mpancracio2020/mpancracio2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+####         a student in software robotics engineering, at King Juan Carlos University 	:robot:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-  
+### - Hobbies : 
+- ✨ Gaming Addict
+- ✨ Watching Anime
+- ✨ Reading Light Novels
+- ✨ Badminton (Neighbourhood Professional XD)
 <p align="center">
   <img src="https://data.whicdn.com/images/339189855/original.gif" alt="UwU" />
 </p>
