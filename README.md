@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<center><img src="https://data.whicdn.com/images/339189855/original.gif" alt="UwU" /></center>
+<center>
+  <img src="https://data.whicdn.com/images/339189855/original.gif" alt="UwU" />
+</center>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mpancracio2020&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
