@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 </p>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpancracio2020&layout=compact)](https://github.com/mpancracio2020/)-->
-<p align="center">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mpancracio2020&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-</p>
 
-<h3 align="left">Connect with me:</h3>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mpancracio2020&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+
+
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/mrvn________" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="www.linkedin.com/in/mpancracio" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
