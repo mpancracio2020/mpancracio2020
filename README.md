@@ -21,7 +21,7 @@ ______________________________________________________________________________
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mpancracio2020&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=morenito31)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=morenito31)](https://open.spotify.com/user/morenito31)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
