@@ -20,9 +20,9 @@ Here are some ideas to get you started:
  
 </p>
 
-<p align="center">
+
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mpancracio2020&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
