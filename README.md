@@ -1,17 +1,22 @@
-###                   Hi, I'm Marvin.
+#                 Hi, I'm Marvin. 👋
 ______________________________________________________________________________
 # About ME 💬 :
 
 ####         a student in software robotics engineering, at King Juan Carlos University 	:robot:
 
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
 <p align="center">
   <img src="https://data.whicdn.com/images/339189855/original.gif" alt="UwU" />
 </p>
+
+### - Knowledge :
+- 📚 scientific baccalaureate
+- 📚 software robotics engineering (in processs)
+
+
+### - Hobbies : 
+- ✨ Gaming Addict
+- ✨ Watching Anime
+
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mpancracio2020&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
