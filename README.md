@@ -2,7 +2,7 @@
 ______________________________________________________________________________
 # About ME 💬 :
 
-####         a student in software robotics engineering, at King Juan Carlos University 	:robot:
+####         A student in software robotics engineering, at King Juan Carlos University 	:robot:
 
 <p align="center">
   <img src="https://data.whicdn.com/images/339189855/original.gif" alt="UwU" />
