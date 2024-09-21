@@ -1,8 +1,8 @@
-# <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>  Hi, I'm Marvin. 👋
+# Hi, I'm Marvin. 👋
 ______________________________________________________________________________
 # About ME 💬 :
 
-####         A student in software robotics engineering, at King Juan Carlos University 	:robot:
+####         A student in software robotics engineering, at King Juan Carlos University 	
 
 <p align="center">
   <img src="https://data.whicdn.com/images/339189855/original.gif" alt="UwU" />
@@ -14,11 +14,12 @@ ______________________________________________________________________________
 
 
 ### - Hobbies : 
+- ✨ Software Open Source projects
 - ✨ Gaming Addict
-- ✨ Watching Anime and Reading Manga
+- ✨ Watching Anime
 
 ### - Projects : 
-- :space_invader: Robotech Association
+- :space_invader: Robotech Association and Project Leader
 - :space_invader: Nocom-Pila member
 
 
