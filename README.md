@@ -34,6 +34,6 @@ ______________________________________________________________________________
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,ros,git,docker,arduino" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,ros,opencv,git,docker,arduino" />
   </a>
 </p>
